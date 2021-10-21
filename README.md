@@ -1,9 +1,10 @@
 {
-	"username": "NexFP",
-	"email": "giovannycardoso50@gmail.com",
-	"title": "Ahhasa",
-	"description": "Ahdsahsa",
-	"uses": "Aasdhaha",
-	"Licensing": "MIT",
-	"contributions": "No one"
+	"username": ".neX.",
+	"email": "imnotgio@gmail.com",
+	"title": "Node README Generator",
+	"description": "This is to create a README",
+	"installation": "Create a README",
+	"usage": "Create a README",
+	"licensing": "MIT",
+	"contributions": "Myself"
 }
