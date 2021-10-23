@@ -30,7 +30,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license != "None"){
     return `## License
-    ${license} ${renderLicenseLink(license)}
+    ${license} ![${renderLicenseLink(license)}](${renderLicenseLink(license)})
     ## Badges
     ![license](${renderLicenseBadge(license)})` 
   } else {
