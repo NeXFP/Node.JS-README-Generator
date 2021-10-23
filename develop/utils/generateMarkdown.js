@@ -30,11 +30,13 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license != "None"){
     return `## License
-    ${license} ![${renderLicenseLink(license)}](${renderLicenseLink(license)})
-    ## Badges
-    ![license](${renderLicenseBadge(license)})` 
+  ${license} License <br />
+  Link to License's Website: ${renderLicenseLink(license)}
+    
+  ## Badges
+  ![${license}](${renderLicenseBadge(license)})`
   } else {
-    return " ";
+    return ' ';
   }
 }
 
@@ -42,7 +44,23 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ## Description
+  ${data.description}
+
+  ## Installation
+  ${data.installation}
+
+  ## Usage
+  ${data.usage}
+
+  ## Contributions
+  ${data.contributions}
+
   ${renderLicenseSection(data.licensing)}
+
+  ## Questions
+  For any questions, email me at: ${data.email}.
+  Or find me at Github https://github.com/${data.username}.
 
 `;
 }
