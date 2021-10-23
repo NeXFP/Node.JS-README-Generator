@@ -38,8 +38,8 @@ const questions = [
     {
         type: "list",
         name: "licensing",
-        message: "Which license does your project have?",
-        choices: ["MIT", "Apache","GPL", "None"]
+        choices: ["MIT", "Apache","GPL", "None"],
+        message: "Which license does your project have?"
 
     },
     {
