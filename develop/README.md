@@ -1,25 +1,25 @@
-# Test Example
+# Testing
 
   ## Description
-  Example for testing purposes
+  Test
 
   ## Installation
-  npm install inquirer
+  Tester
 
   ## Usage
-  The project is used to print a README for the user based on user input\
+  Testing purposes
 
   ## Contributions
-  Myseldf
+  Myself
 
   ## License
-  Apache License <br />
-  Link to License's Website:  
+  MIT License <br />
+  Link to License's Website: https://opensource.org/licenses/MIT
     
   ## Badges
-  ![Apache](https://img.shields.io/badge/License-NONE-yellow)
+  ![MIT](https://img.shields.io/badge/License-MIT-yellow)
 
   ## Questions
-  For any questions, email me at: imnotgio@gmail.com.
-  Or find me at Github https://github.com/NeXFP.
+  For any questions, email me at: testing@gmail.com.
+  Or find me at Github https://github.com/Test.
 
