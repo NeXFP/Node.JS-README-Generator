@@ -1,23 +1,23 @@
-# Node README Generator
+# Test Example
 
   ## Description
-  The project essentially generates a professionally written README using Node as a basis.
+  Example for testing purposes
 
   ## Installation
   npm install inquirer
 
   ## Usage
-  The project is used to generate a README for the user via Node functions
+  The project is used to print a README for the user based on user input\
 
   ## Contributions
-  Myself
+  Myseldf
 
   ## License
-  MIT License <br />
-  Link to License's Website: https://opensource.org/licenses/MIT
+  Apache License <br />
+  Link to License's Website:  
     
   ## Badges
-  ![MIT](https://img.shields.io/badge/License-MIT-yellow)
+  ![Apache](https://img.shields.io/badge/License-NONE-yellow)
 
   ## Questions
   For any questions, email me at: imnotgio@gmail.com.
